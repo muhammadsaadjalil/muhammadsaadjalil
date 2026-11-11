@@ -46,6 +46,10 @@ My professional background and wider service portfolio are documented at **[saad
 
 ### [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground)
 
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-2ea44f?logo=github&logoColor=white)](https://github.com/muhammadsaadjalil/developer-playground/releases/tag/v1.0.0)
+
+**Stable release:** [Developer Playground v1.0.0](https://github.com/muhammadsaadjalil/developer-playground/releases/tag/v1.0.0) · [Download ZIP](https://github.com/muhammadsaadjalil/developer-playground/archive/refs/tags/v1.0.0.zip) · [Download TAR.GZ](https://github.com/muhammadsaadjalil/developer-playground/archive/refs/tags/v1.0.0.tar.gz)
+
 A collection of dependency-free Python CLI utilities for everyday development tasks, with automated tests and an MIT license.
 
 | Tool | What it does |
