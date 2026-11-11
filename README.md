@@ -1,71 +1,95 @@
 # Muhammad Saad Jalil
 
-**Developer · Digital Products · Web Platforms · Open-Source Contributor**
+### Digital Marketing Consultant · Trainer · Entrepreneur · Technology Builder
 
-I build practical digital products, responsive websites, and internal tools—from developer-focused Python utilities to content-managed sites and database-backed applications. My work spans frontend engineering, automation, and product implementation.
+**Founder & CEO, Hello Future Technologies** · Lahore, Pakistan
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-muhammadsaadjalil-181717?logo=github&logoColor=white)](https://github.com/muhammadsaadjalil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saadabbasi.pk-0A66C2?logo=googlechrome&logoColor=white)](https://saadabbasi.pk)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Developer%20Playground-2ea44f?logo=github&logoColor=white)](https://github.com/muhammadsaadjalil/developer-playground)
+I work at the intersection of **digital marketing, technology solutions, professional training, and business consulting**. I help businesses, organizations, and professionals strengthen their digital presence, improve operations, and build practical solutions. Alongside consulting and entrepreneurship, I develop and maintain websites, internal platforms, and open-source developer tools.
 
-## What I work with
+[![Personal Website](https://img.shields.io/badge/Website-saadabbasi.pk-0F52BA?style=flat&logo=googlechrome&logoColor=white)](https://saadabbasi.pk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Saad%20Jalil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-jalil/)
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadsaadjalil-181717?style=flat&logo=github&logoColor=white)](https://github.com/muhammadsaadjalil)
+[![Book Consultation](https://img.shields.io/badge/Book-Consultation-008080?style=flat&logo=googlecalendar&logoColor=white)](https://calendly.com/muhammadsaadjalil/30min)
+
+## About my work
+
+- **Digital marketing & SEO:** Search visibility, digital campaigns, social media marketing, and growth strategies.
+- **Technology & web solutions:** Responsive websites, content management, e-commerce platforms, and database-backed administrative applications.
+- **Training & consulting:** Professional training, business strategy, digital transformation, and support for entrepreneurs and organizations.
+- **Community & leadership:** Volunteer management, youth engagement, and organizational digital initiatives.
+
+My professional background and wider service portfolio are documented at **[saadabbasi.pk](https://saadabbasi.pk/)**.
+
+## Professional experience & affiliations
+
+| Organization | Role |
+| --- | --- |
+| **Hello Future Technologies** | Founder & CEO |
+| **Volunteers Leading Governance (VLG)** | Volunteer Management Officer |
+| **Sitara-o-Hilal Foundation (SHF)** | Volunteer Management Officer |
+| **International Global Network** | Former Ambassador |
+| **TIDE Digitalize** | Former Marketing Manager |
+
+*Roles listed here reflect the professional information published in my personal website's source content.*
+
+## Technology & development stack
 
 **Languages:** Python · TypeScript · JavaScript · HTML · CSS · SQL · PHP
 
 **Frameworks & UI:** Next.js · React · Vite · Tailwind CSS · Alpine.js
 
-**Data & CMS:** PostgreSQL · Supabase · Prisma · Sanity
+**Data & content:** Supabase · PostgreSQL · Prisma · Sanity CMS
 
-**Workflow:** Git & GitHub · GitHub Actions · REST APIs · Testing · Responsive Design
+**Tools & workflow:** Git · GitHub · GitHub Actions · REST APIs · Automated Testing · Responsive Web Development
 
-These technologies appear in my current project repositories; they are not intended as claims of formal certifications.
-
-## Featured public project
+## Featured open-source project
 
 ### [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground)
 
-A collection of **dependency-free Python command-line utilities** for everyday developer tasks, with automated tests and open-source contribution guidance.
+A collection of dependency-free Python CLI utilities for everyday development tasks, with automated tests and an MIT license.
 
-| Utility | Purpose |
+| Tool | What it does |
 | --- | --- |
-| Text Statistics | Count lines, words, characters, and optional UTF-8 bytes |
-| JSON Formatter & Validator | Validate, pretty-print, minify, and sort JSON keys |
-| CSV Analyzer | Inspect records, columns, and empty values |
-| SHA-256 Checksum | Hash files and verify expected digests |
+| **Text Statistics** | Counts lines, words, Unicode characters, and optional UTF-8 bytes |
+| **JSON Formatter & Validator** | Validates, formats, minifies, and sorts JSON keys |
+| **CSV Analyzer** | Summarizes data rows, columns, and empty values |
+| **SHA-256 Checksum** | Computes and verifies file hashes |
 
-[![Python tests](https://github.com/muhammadsaadjalil/developer-playground/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/muhammadsaadjalil/developer-playground/actions/workflows/tests.yml)
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://github.com/muhammadsaadjalil/developer-playground/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/muhammadsaadjalil/developer-playground?style=flat&logo=github&label=Stars)](https://github.com/muhammadsaadjalil/developer-playground/stargazers)
+[![Tests](https://github.com/muhammadsaadjalil/developer-playground/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/muhammadsaadjalil/developer-playground/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/muhammadsaadjalil/developer-playground/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/muhammadsaadjalil/developer-playground?style=flat&logo=github)](https://github.com/muhammadsaadjalil/developer-playground/stargazers)
 
-[Explore the code](https://github.com/muhammadsaadjalil/developer-playground) · [Report an issue](https://github.com/muhammadsaadjalil/developer-playground/issues) · [Contribute](https://github.com/muhammadsaadjalil/developer-playground/blob/main/CONTRIBUTING.md)
+[**Explore the repository**](https://github.com/muhammadsaadjalil/developer-playground) · [**Report an issue**](https://github.com/muhammadsaadjalil/developer-playground/issues) · [**Contribute**](https://github.com/muhammadsaadjalil/developer-playground/blob/main/CONTRIBUTING.md)
 
-## Selected work
+## Selected technology projects
 
-*The project repositories listed below are private. The descriptions highlight general project scope and verified technologies without exposing private source code.*
+The underlying repositories for the projects below are **private**. These are high-level descriptions of work and technologies, not links to private source code.
 
-| Project | Focus | Key technologies |
+| Project | Focus | Technologies |
 | --- | --- | --- |
-| **BEAIGA Store** | E-commerce storefront and order workflows | Next.js, TypeScript, Prisma, Supabase |
-| **Hello Future Technologies** | Responsive corporate website and web integrations | React, Vite, Tailwind CSS, PHP |
-| **RB Ventures** | Institutional website and content management | Next.js, TypeScript, Sanity |
-| **VLG E-Voting Portal** | Election administration and voting workflows | Next.js, TypeScript, Supabase |
-| **VLG Letter Management** | Internal letter records, search, and document workflows | Next.js, TypeScript, Supabase |
-| **HFT Books** | Accounting and financial reporting application | Next.js, TypeScript, Supabase |
+| **Hello Future Technologies Website** | Company website, services, content, and web integrations | React · Vite · Tailwind CSS · PHP |
+| **BEAIGA Store** | E-commerce storefront and ordering workflows | Next.js · TypeScript · Prisma · Supabase |
+| **RB Ventures** | Institutional website and content management | Next.js · TypeScript · Sanity |
+| **VLG E-Voting Portal** | Election management and voting workflows | Next.js · TypeScript · Supabase |
+| **VLG Letter Management** | Internal records and document workflows | Next.js · TypeScript · Supabase |
+| **HFT Books** | Accounting and financial reporting application | Next.js · TypeScript · Supabase |
 
-## GitHub & contributions
+## GitHub activity & achievements
 
-- **Achievements confirmed:** 🦈 Pull Shark · ⚡ Quickdraw
-- I use feature branches, pull requests, and automated tests to keep changes reviewable.
-- I welcome meaningful issue reports, documentation suggestions, and improvements to [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground).
+- **Confirmed achievements:** 🦈 Pull Shark · ⚡ Quickdraw
+- I use feature branches, pull requests, and automated tests to improve the reliability of my projects.
+- I'm open to constructive feedback and meaningful contributions to [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground).
 
-> Achievement tiers and GitHub activity counts may change over time. For current details, see my [GitHub profile](https://github.com/muhammadsaadjalil).
+*GitHub statistics and achievement tiers may change; see my [GitHub profile](https://github.com/muhammadsaadjalil) for current details.*
 
-## Connect
+## Connect with me
 
-- 🌐 **Portfolio:** [saadabbasi.pk](https://saadabbasi.pk)
-- 🧰 **Open-source tools:** [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground)
-- 🏢 **Corporate website project:** [Hello Future Technologies](https://hellofuturetechnology.com)
+- 🌐 **Personal website and full professional profile:** [saadabbasi.pk](https://saadabbasi.pk/)
+- 💼 **LinkedIn:** [Muhammad Saad Jalil](https://www.linkedin.com/in/muhammad-saad-jalil/)
+- 📩 **Professional inquiries:** [contact@saadabbasi.pk](mailto:contact@saadabbasi.pk)
+- 📅 **Consultation:** [Book a session](https://calendly.com/muhammadsaadjalil/30min)
+- 💻 **Open-source:** [Developer Playground](https://github.com/muhammadsaadjalil/developer-playground)
 
 ---
 
-*Interested in developer tools, useful web products, and building software that solves real problems.*
+*Building useful technology, supporting businesses, and contributing to digital growth.*
