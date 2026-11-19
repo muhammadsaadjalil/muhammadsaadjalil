@@ -12,6 +12,28 @@ I help businesses and professionals strengthen their digital presence through di
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/muhammad-saad-jalil/)
 [![Consultation](https://img.shields.io/badge/Consultation-Book_a_session-087F75?style=flat-square)](https://calendly.com/muhammadsaadjalil/30min)
 
+## Featured project: BEAIGA
+
+**Fashion e-commerce · Hello Future Technologies**
+
+[BEAIGA](https://www.beaiga.com/) is a contemporary fashion brand with an online storefront for customers in Pakistan. The website publicly credits Hello Future Technologies for its development.
+
+**Business focus:** Present the brand’s collections clearly and give shoppers a convenient way to explore products, offers, and customer-care information.
+
+**Project highlights**
+
+- Product discovery through clothing categories and curated collections.
+- Featured products with visible pricing and promotional offers.
+- Brand storytelling through editorial sections and an Our Story page.
+- Customer-care links for sizing, shipping, returns, and order tracking.
+- Newsletter sign-up for new arrivals and seasonal updates.
+
+**Outcome:** A live branded storefront bringing product discovery, promotional content, and customer information together.
+
+*Featured from my company’s portfolio. Sales, traffic, and conversion results are not reported here.*
+
+[**Visit BEAIGA →**](https://www.beaiga.com/)
+
 ## Featured tools
 
 ### Campaign Link Builder
