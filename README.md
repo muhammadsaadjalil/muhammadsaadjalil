@@ -1,8 +1,8 @@
 # Muhammad Saad Jalil
 
-![Animated introduction — Digital Marketing, Web Development, Training, and Founder of Hello Future Technologies](https://raw.githubusercontent.com/muhammadsaadjalil/muhammadsaadjalil/main/assets/introduction-v2.gif)
+![Animated marketing dashboard showing campaign performance, audience growth, engagement, and reach — illustrative figures](https://raw.githubusercontent.com/muhammadsaadjalil/muhammadsaadjalil/main/assets/marketing-dashboard.gif)
 
-### Digital Marketing Consultant · Trainer · Entrepreneur · Technology Builder
+### Digital Marketing Consultant · Trainer · Entrepreneur
 
 **Founder & CEO, Hello Future Technologies** · Lahore, Pakistan
 
